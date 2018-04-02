@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Halal Guys Quiz</string>
+    <string name="welcome_halal">Welcome to the Halal Guys Quiz App!</string>
+
+    <string name="question1">Question 1</string>
+    <string name="question2">Question 2</string>
+    <string name="question3">Question 3</string>
+    <string name="question4">Question 4</string>
+    <string name="question5">Question 5</string>
+    <string name="question6">Question 6</string>
+
+    <string name="question1Text">In what city did Halal Guys start in?</string>
+    <string name="question2Text">What did Halal Guys start their business in?</string>
+    <string name="question3Text">What type(s) of meat are offered on the menu?</string>
+    <string name="question4Text">What type of bread is served?</string>
+    <string name="question5Text">What are the logo colors?</string>
+    <string name="question6Text">Which size plate is NOT offered?</string>
+
+    <string name="food_cart">Food Cart</string>
+    <string name="store_front">Store Front</string>
+
+    <string name="chicken">Chicken</string>
+    <string name="pork">Pork</string>
+    <string name="gyro">Gyro</string>
+
+    <string name="bread">Bread</string>
+
+    <string name="red">Red</string>
+    <string name="white">White</string>
+    <string name="yelllow">Yellow</string>
+
+    <string name="small">Small</string>
+    <string name="regular">Regular</string>
+    <string name="large">Large</string>
+
+    <string name="finish">Finish</string>
+
+</resources>
