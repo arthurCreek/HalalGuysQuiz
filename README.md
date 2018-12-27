@@ -1,6 +1,6 @@
 # HalalGuysQuiz
 Udacity Quiz App Project - The goal was to create an educational app that quizzes a user about a certain topic.  
-In this case it is about the fast-food chain Halal Guys.
+In this case it is about the fast-food chain Halal Guys.  Below are the project guidlines from the Android Basics Nanodegree course.
 
 ## Project Overview
 The Quiz App project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making your own Android app - taking it from the idea stage to building out the full app. You can share your app with family and friends, as well as with other students in this course.
@@ -13,10 +13,10 @@ So far in this Nanodegree program, we’ve built three apps together: the Happy 
 ## What will I learn?
 This project is about combining various ideas and skills we’ve been practicing throughout the course. They include:
 
-Planning your app design before coding.
-Taking an app layout from drawing to XML code.
-Creating, positioning, and styling views.
-Creating interactivity through button clicks and Java code.
-Commenting and documenting your code.
+* Planning your app design before coding.
+* Taking an app layout from drawing to XML code.
+* Creating, positioning, and styling views.
+* Creating interactivity through button clicks and Java code.
+* Commenting and documenting your code.
 
 Note: As the focus of this program is Java, only projects completed with Java as the source code will be accepted. Projects using Kotlin as the source code will not be accepted.
